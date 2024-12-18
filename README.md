@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Front-End desde 2022<br>📚 Atualmente estou me aperfeiçoando em React.js<br>🎯 Objetivo: Full stack<br></p>
+<p align="left">✨ Front-End desde 2022<br>📚 Atualmente estou me aperfeiçoando em React.js e Next.js<br>🎯 Objetivo: Full stack<br></p>
 
 ###
 
