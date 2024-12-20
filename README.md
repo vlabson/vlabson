@@ -17,7 +17,7 @@
 <div align="left">
   <a href="https://github.com/vlabson"/>
   <img src="https://github-readme-stats.vercel.app/api?username=vlabson"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vlabson" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vlabson" height="195"/>
 </div>
 <h2 align="left">Stack de desenvolvimento</h2>
 
