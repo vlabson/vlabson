@@ -16,7 +16,7 @@
 
 <div align="left">
   <a href="https://github.com/vlabson"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra"
+  <img src="https://github-readme-stats.vercel.app/api?username=vlabson"
  height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?
     username=vlabson&
