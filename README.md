@@ -107,16 +107,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman" />
 </div>
 
-<h2 align="left">GitHub</h2>
-
-<div align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vlabson&show_icons=true"
-    height="170"
-    alt="Estatísticas do GitHub"
-  />
-</div>
-
 <h2 align="left">Contato</h2>
 
 <div align="left">
